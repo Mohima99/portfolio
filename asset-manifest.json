@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1935681d.chunk.css",
-    "main.js": "/portfolio/static/js/main.141697e8.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.141697e8.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.63f7e357.chunk.css",
+    "main.js": "/portfolio/static/js/main.3cbe9f25.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3cbe9f25.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5f581b88.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5f581b88.js.map",
     "static/css/2.61b4cb56.chunk.css": "/portfolio/static/css/2.61b4cb56.chunk.css",
@@ -12,11 +12,12 @@
     "static/js/3.f9ae3cd3.chunk.js.map": "/portfolio/static/js/3.f9ae3cd3.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/portfolio/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.1935681d.chunk.css.map": "/portfolio/static/css/main.1935681d.chunk.css.map",
+    "static/css/main.63f7e357.chunk.css.map": "/portfolio/static/css/main.63f7e357.chunk.css.map",
     "static/js/2.7ba342c5.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7ba342c5.chunk.js.LICENSE.txt",
-    "static/media/CV_ZarinRahmanMohima.4f567224.pdf": "/portfolio/static/media/CV_ZarinRahmanMohima.4f567224.pdf",
+    "static/media/CV_ZarinRahmanMohima.0a59e0d1.pdf": "/portfolio/static/media/CV_ZarinRahmanMohima.0a59e0d1.pdf",
     "static/media/MathTech_1.736d10f6.PNG": "/portfolio/static/media/MathTech_1.736d10f6.PNG",
     "static/media/NewsPA_1.95848da8.PNG": "/portfolio/static/media/NewsPA_1.95848da8.PNG",
+    "static/media/QuizBizz.8637d73f.PNG": "/portfolio/static/media/QuizBizz.8637d73f.PNG",
     "static/media/ROBU.4f075a45.png": "/portfolio/static/media/ROBU.4f075a45.png",
     "static/media/VueLaravelCRUD.b4c33f72.PNG": "/portfolio/static/media/VueLaravelCRUD.b4c33f72.PNG",
     "static/media/bracu_logo.0b15af0a.png": "/portfolio/static/media/bracu_logo.0b15af0a.png",
@@ -25,13 +26,14 @@
     "static/media/ehub.97f5c10d.jpg": "/portfolio/static/media/ehub.97f5c10d.jpg",
     "static/media/logo.6ce24c58.svg": "/portfolio/static/media/logo.6ce24c58.svg",
     "static/media/mWiz.f43c6203.png": "/portfolio/static/media/mWiz.f43c6203.png",
+    "static/media/nancy.8d5922e4.PNG": "/portfolio/static/media/nancy.8d5922e4.PNG",
     "static/media/viqilogo.3e3543d0.jpg": "/portfolio/static/media/viqilogo.3e3543d0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5f581b88.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.7ba342c5.chunk.js",
-    "static/css/main.1935681d.chunk.css",
-    "static/js/main.141697e8.chunk.js"
+    "static/css/main.63f7e357.chunk.css",
+    "static/js/main.3cbe9f25.chunk.js"
   ]
 }
