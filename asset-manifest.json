@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.63f7e357.chunk.css",
-    "main.js": "/portfolio/static/js/main.3cbe9f25.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.3cbe9f25.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.5f581b88.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.5f581b88.js.map",
+    "main.css": "/portfolio/static/css/main.15832f1b.chunk.css",
+    "main.js": "/portfolio/static/js/main.a2f38bd9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a2f38bd9.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.740d3ba3.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.740d3ba3.js.map",
     "static/css/2.61b4cb56.chunk.css": "/portfolio/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.7ba342c5.chunk.js": "/portfolio/static/js/2.7ba342c5.chunk.js",
-    "static/js/2.7ba342c5.chunk.js.map": "/portfolio/static/js/2.7ba342c5.chunk.js.map",
-    "static/js/3.f9ae3cd3.chunk.js": "/portfolio/static/js/3.f9ae3cd3.chunk.js",
-    "static/js/3.f9ae3cd3.chunk.js.map": "/portfolio/static/js/3.f9ae3cd3.chunk.js.map",
+    "static/js/2.33a2be57.chunk.js": "/portfolio/static/js/2.33a2be57.chunk.js",
+    "static/js/2.33a2be57.chunk.js.map": "/portfolio/static/js/2.33a2be57.chunk.js.map",
+    "static/js/3.2a0d325c.chunk.js": "/portfolio/static/js/3.2a0d325c.chunk.js",
+    "static/js/3.2a0d325c.chunk.js.map": "/portfolio/static/js/3.2a0d325c.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/portfolio/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.63f7e357.chunk.css.map": "/portfolio/static/css/main.63f7e357.chunk.css.map",
-    "static/js/2.7ba342c5.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7ba342c5.chunk.js.LICENSE.txt",
+    "static/css/main.15832f1b.chunk.css.map": "/portfolio/static/css/main.15832f1b.chunk.css.map",
+    "static/js/2.33a2be57.chunk.js.LICENSE.txt": "/portfolio/static/js/2.33a2be57.chunk.js.LICENSE.txt",
     "static/media/CV_ZarinRahmanMohima.0a59e0d1.pdf": "/portfolio/static/media/CV_ZarinRahmanMohima.0a59e0d1.pdf",
     "static/media/MathTech_1.736d10f6.PNG": "/portfolio/static/media/MathTech_1.736d10f6.PNG",
     "static/media/NewsPA_1.95848da8.PNG": "/portfolio/static/media/NewsPA_1.95848da8.PNG",
@@ -30,10 +30,10 @@
     "static/media/viqilogo.3e3543d0.jpg": "/portfolio/static/media/viqilogo.3e3543d0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f581b88.js",
+    "static/js/runtime-main.740d3ba3.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.7ba342c5.chunk.js",
-    "static/css/main.63f7e357.chunk.css",
-    "static/js/main.3cbe9f25.chunk.js"
+    "static/js/2.33a2be57.chunk.js",
+    "static/css/main.15832f1b.chunk.css",
+    "static/js/main.a2f38bd9.chunk.js"
   ]
 }
