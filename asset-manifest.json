@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4c3f0bc2.chunk.css",
-    "main.js": "/portfolio/static/js/main.f22a6eaa.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f22a6eaa.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.56401cde.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.56401cde.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.740d3ba3.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.740d3ba3.js.map",
     "static/css/2.61b4cb56.chunk.css": "/portfolio/static/css/2.61b4cb56.chunk.css",
@@ -14,9 +14,9 @@
     "static/css/2.61b4cb56.chunk.css.map": "/portfolio/static/css/2.61b4cb56.chunk.css.map",
     "static/css/main.4c3f0bc2.chunk.css.map": "/portfolio/static/css/main.4c3f0bc2.chunk.css.map",
     "static/js/2.33a2be57.chunk.js.LICENSE.txt": "/portfolio/static/js/2.33a2be57.chunk.js.LICENSE.txt",
-    "static/media/CV_ZarinRahmanMohima.0a59e0d1.pdf": "/portfolio/static/media/CV_ZarinRahmanMohima.0a59e0d1.pdf",
+    "static/media/CV_ZarinRahmanMohima.8c73946d.pdf": "/portfolio/static/media/CV_ZarinRahmanMohima.8c73946d.pdf",
     "static/media/GameV.b0b0c37b.jpg": "/portfolio/static/media/GameV.b0b0c37b.jpg",
-    "static/media/MathTech_1.736d10f6.PNG": "/portfolio/static/media/MathTech_1.736d10f6.PNG",
+    "static/media/MathTech_1.05ebbdec.PNG": "/portfolio/static/media/MathTech_1.05ebbdec.PNG",
     "static/media/NewsPA_1.95848da8.PNG": "/portfolio/static/media/NewsPA_1.95848da8.PNG",
     "static/media/QuizBizz.8637d73f.PNG": "/portfolio/static/media/QuizBizz.8637d73f.PNG",
     "static/media/ROBU.4f075a45.png": "/portfolio/static/media/ROBU.4f075a45.png",
@@ -35,6 +35,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.33a2be57.chunk.js",
     "static/css/main.4c3f0bc2.chunk.css",
-    "static/js/main.f22a6eaa.chunk.js"
+    "static/js/main.56401cde.chunk.js"
   ]
 }
