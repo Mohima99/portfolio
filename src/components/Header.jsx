@@ -14,7 +14,7 @@ const Header = () => {
                 <h3>
                     <Typed
                         className="typed-text"
-                        strings={["Web Developer", "Full Stack Developer", "Front-End Developer"]}
+                        strings={["Web Developer", "Full Stack Developer", "Front-End Developer", "SQA Engineer"]}
                         typeSpeed={40}
                         backSpeed={60}
                         loop>
@@ -24,7 +24,7 @@ const Header = () => {
             <div class="about-social">
                 <a href="https://www.linkedin.com/in/zarin-rahman-mohima-99a93a205" class="fa fa-linkedin"></a>
                 <a href="https://github.com/Mohima99" class="fa fa-github"></a>
-                <a href="https://www.facebook.com/zarin.moh" class="fa fa-facebook"></a>
+                <a href="https://www.facebook.com/zarin.mohima.33/" class="fa fa-facebook"></a>
                 <a href="https://www.instagram.com/_mohima___/" class="fa fa-instagram"></a>
             </div>
         </div>

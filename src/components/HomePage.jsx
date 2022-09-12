@@ -13,8 +13,8 @@ const HomePage = () => {
             <NavBar />
             <Header />
             <About />
-            <Projects />
             <Skills />
+            <Projects />
             <Education />
             <Contact />
         </div>

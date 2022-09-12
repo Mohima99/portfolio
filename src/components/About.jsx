@@ -1,5 +1,7 @@
-import Photo from '../assets/cvPhoto.jpg';
+import Photo from '../assets/cvPhoto.jpeg';
+import pdfResume from '../assets/Resume_ZarinRahmanMohima.pdf';
 import pdfCV from '../assets/CV_ZarinRahmanMohima.pdf';
+
 import { Fade, Slide } from "react-reveal";
 
 const About = () => {
@@ -15,24 +17,25 @@ const About = () => {
                 <div>
                     <div class="about-des">
                         <h2 class="about-h2">About Me</h2>
-                        <p class="about-p">My area of interest is Database Designing, Coding and
-                Robotics and I aspire to <br />
-                gain more expertise in these
-                fields. Working with Robotics Club of BRAC University  <br />
-                has allowed me to improve my skills in these fields as
-                well as helped me to develop <br />
-                my leadership and management skills.
-                </p>
+                        <p class="about-p">
+                        I am a driven individual with quick learning abilities and analytical skills. Having hands-on experience in the field of 
+                    <br />    designing, planning and maintenance of software programs, I want to contribute my work experience, skills,
+                    <br /> leadership qualities and knowledge to a diverse team that is progressive and dynamic where my skills will be 
+                    <br /> utilized in the maximum way possible.
+                        </p>
                         <br />
                         <h2 class="about-h2">Contact Details</h2>
                         <p class="about-p">
                             Zarin Rahman Mohima
-                    <br /> zarinrahmanmohima@gmail.com
-                    <br /> +88 01733202988
-                </p>
-                        <a href={pdfCV} download="" class="pdf-download">
+                        <br /> zarinrahmanmohima@gmail.com
+                        {/* <br /> +88 01733202988 */}
+                        </p>
+                        <a href={pdfResume} download="" class="pdf-download">
                             Download Resume
-                    <i className="fa fa-download"></i> </a>
+                            <i className="fa fa-download"></i> </a>
+                        <a href={pdfCV} download="" class="pdf-download">
+                            Download Single page CV
+                            <i className="fa fa-download"></i> </a>
                     </div>
                 </div>
             </Slide>

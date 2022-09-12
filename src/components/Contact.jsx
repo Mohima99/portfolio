@@ -3,28 +3,28 @@ import React, { useState } from "react";
 
 
 const Contact = () => {
-    const [status, setStatus] = useState("Submit");
-    const handleSubmit = async (e) => {
-        e.preventDefault();
-        setStatus("Sending...");
-        const { contactName, contactEmail, contactSubject, contactMessage } = e.target.elements;
-        let details = {
-            contactName: contactName.value,
-            contactEmail: contactEmail.value,
-            contactSubject: contactSubject.value,
-            contactMessage: contactMessage.value,
-        };
-        let response = await fetch("http://localhost:5000/contact", {
-            method: "POST",
-            headers: {
-                "Content-Type": "application/json;charset=utf-8",
-            },
-            body: JSON.stringify(details),
-        });
-        setStatus("Submit");
-        let result = await response.json();
-        alert(result.status);
-    };
+    // const [status, setStatus] = useState("Submit");
+    // const handleSubmit = async (e) => {
+    //     e.preventDefault();
+    //     setStatus("Sending...");
+    //     const { contactName, contactEmail, contactSubject, contactMessage } = e.target.elements;
+    //     let details = {
+    //         contactName: contactName.value,
+    //         contactEmail: contactEmail.value,
+    //         contactSubject: contactSubject.value,
+    //         contactMessage: contactMessage.value,
+    //     };
+    //     let response = await fetch("http://localhost:5000/contact", {
+    //         method: "POST",
+    //         headers: {
+    //             "Content-Type": "application/json;charset=utf-8",
+    //         },
+    //         body: JSON.stringify(details),
+    //     });
+    //     setStatus("Submit");
+    //     let result = await response.json();
+    //     alert(result.status);
+    // };
     return (
         <div class="contact" id="Contact">
             <div>
@@ -40,7 +40,7 @@ const Contact = () => {
                 </div> */}
             </div>
             <div class="con-div">
-                <div class="contact-form">
+                {/* <div class="contact-form">
                     <form onSubmit={handleSubmit}>
                         <fieldset>
                             <div >
@@ -106,11 +106,11 @@ const Contact = () => {
                             </div>
                         </fieldset>
                     </form>
-                </div>
+                </div> */}
                 <div class="contact-footer">
                     <h2 class="foot-h2"> Zarin Rahman Mohima </h2>
                     <p class="foot-p">zarinrahmanmohima@gmail.com</p>
-                    <p class="foot-p">+88 01733202988</p>
+                    {/* <p class="foot-p">+88 01733202988</p> */}
                     <div class="contact-social">
                         <a href="https://www.linkedin.com/in/zarin-rahman-mohima-99a93a205" class="fa fa-linkedin"></a>
                         <a href="https://github.com/Mohima99" class="fa fa-github"></a>
