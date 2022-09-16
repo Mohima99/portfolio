@@ -6,6 +6,8 @@ import Education from './Education';
 import Skills from './Skills';
 import Contact from './Contact';
 import NavBar from './NavBar';
+import Recommendation from './Recommendation';
+import Experience from './Experience';
 
 const HomePage = () => {
     return (
@@ -13,9 +15,11 @@ const HomePage = () => {
             <NavBar />
             <Header />
             <About />
-            <Skills />
+            <Experience />
             <Projects />
-            <Education />
+            <Skills />
+            <Recommendation />
+            {/* <Education /> */}
             <Contact />
         </div>
     );

@@ -32,7 +32,7 @@ const Skills = () => {
                                     <li>ReactJS</li>
                                     <li>VueJS</li>
                                     <li>HTML</li>
-                                    <li>CSS</li>
+                                    <li>CSS, Bootstrap</li>
                                 </ul>
                             </div>
 
@@ -66,7 +66,7 @@ const Skills = () => {
                 </Slide>
             </div>
 
-            <div class="experience">
+            {/* <div class="experience">
                 <div class="exp-title">Experience</div>
                 <Fade bottom duration="1500">
                     <div>
@@ -78,6 +78,16 @@ const Skills = () => {
                                     <p class="exp-mw-info">Oslo - Norway</p>
                                     <p class="exp-mw-info">Software Quality Assurance Engineer</p>
                                     <p class="exp-mw-info">March, 2021 - Present</p>
+
+                                </div>
+                            </div>
+                            <div class="work-section">
+                                <a href="https://brac.net/"> <img class="skill-pic" src={masterWiZR} alt="BRAC Photo" /> </a>
+                                <div class="exp-des">       
+                                    <a href="https://brac.net/" class="work-link"> BRAC </a>
+                                    <p class="exp-mw-info">Dhaka - Bangladesh</p>
+                                    <p class="exp-mw-info">Product & Data Intern</p>
+                                    <p class="exp-mw-info">Sept, 2022 - Present</p>
 
                                 </div>
                             </div>
@@ -104,7 +114,7 @@ const Skills = () => {
 
                     </div>
                 </Fade>
-            </div>
+            </div> */}
 
         </div >
     );

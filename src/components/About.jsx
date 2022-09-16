@@ -19,9 +19,9 @@ const About = () => {
                         <h2 class="about-h2">About Me</h2>
                         <p class="about-p">
                         I am a driven individual with quick learning abilities and analytical skills. Having hands-on experience in the field of 
-                    <br />    designing, planning and maintenance of software programs, I want to contribute my work experience, skills,
-                    <br /> leadership qualities and knowledge to a diverse team that is progressive and dynamic where my skills will be 
-                    <br /> utilized in the maximum way possible.
+                       designing, planning and maintenance of software programs, I want to contribute my work experience, skills,
+                     leadership qualities and knowledge to a diverse team that is progressive and dynamic where my skills will be 
+                     utilized in the maximum way possible.
                         </p>
                         <br />
                         <h2 class="about-h2">Contact Details</h2>
@@ -31,10 +31,10 @@ const About = () => {
                         {/* <br /> +88 01733202988 */}
                         </p>
                         <a href={pdfResume} download="" class="pdf-download">
-                            Download Resume
+                             Resume
                             <i className="fa fa-download"></i> </a>
                         <a href={pdfCV} download="" class="pdf-download">
-                            Download Single page CV
+                             Single page CV
                             <i className="fa fa-download"></i> </a>
                     </div>
                 </div>

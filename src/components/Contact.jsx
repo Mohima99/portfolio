@@ -112,10 +112,10 @@ const Contact = () => {
                     <p class="foot-p">zarinrahmanmohima@gmail.com</p>
                     {/* <p class="foot-p">+88 01733202988</p> */}
                     <div class="contact-social">
-                        <a href="https://www.linkedin.com/in/zarin-rahman-mohima-99a93a205" class="fa fa-linkedin"></a>
-                        <a href="https://github.com/Mohima99" class="fa fa-github"></a>
-                        <a href="https://www.facebook.com/zarin.moh" class="fa fa-facebook"></a>
-                        <a href="https://www.instagram.com/_mohima___/" class="fa fa-instagram"></a>
+                        <a href="https://www.linkedin.com/in/zarin-rahman-mohima-99a93a205" class="fa fa-linkedin" target="_blank" rel="noopener noreferrer"></a>
+                        <a href="https://github.com/Mohima99" class="fa fa-github" target="_blank" rel="noopener noreferrer"></a>
+                        <a href="https://www.facebook.com/zarin.moh" class="fa fa-facebook" target="_blank" rel="noopener noreferrer"></a>
+                        <a href="https://www.instagram.com/_mohima___/" class="fa fa-instagram" target="_blank" rel="noopener noreferrer"></a>
                     </div>
                 </div>
             </div>
